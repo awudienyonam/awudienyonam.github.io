@@ -1,0 +1,67 @@
+html {
+ background-image: linear-gradient(to bottom right, green, yellow);
+  height: 100%;
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+  color: violet;
+  font-family: Brush Script MT;
+  font-size: 50px;
+}
+  
+h1 {
+  text-align: center;
+  color: black;
+  font-family:Brush script MT;
+  font-size: 40px;
+}
+  
+p {
+  color: darkblue;
+  font-family:Edwardian Script ITC ;
+  font-size: 30px;
+}
+ul{
+  background-color:green;
+  overflow:hidden;list-style-type:none;
+}
+li  {
+  display: inline
+}
+
+li a{
+  text-decoration:none;
+  color:white;
+  font-size:1.3em;
+  padding:1em;
+}
+li a:hover{
+  background-color:lightgreen;
+}
+  
+img {
+  border: 5px solid blue;
+  width: 60%; height: auto;
+  margin: 10px;
+    
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption.center {
+  text-align: center;
+}
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p.center {
+  text-align: center;
+}
